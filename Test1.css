@@ -15,7 +15,7 @@
         margin-top:87%;
         color:transparent;
         overflow: hidden;
-        width:290px;
+        width:300px;
         white-space: nowrap;
         border-style:solid;
         position: absolute;
@@ -371,7 +371,7 @@ body {
     white-space: nowrap;
     overflow:hidden;
     border-style:solid;
-    width:180px;
+    width:200px;
     
 }
 

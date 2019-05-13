@@ -15,7 +15,7 @@
         margin-top:87%;
         color:transparent;
         overflow: hidden;
-        width:270px;
+        width:290px;
         white-space: nowrap;
         border-style:solid;
         position: absolute;
@@ -392,11 +392,11 @@ body {
         border-width: 0 2px 0 0 ;
     }
     99%{
-        width:180px;
+        width:200px;
         border-width: 0 0px 0 0 ;
     }
     100%{
-        width:180px;
+        width:200px;
         border-width: 0 0 0 0 ;
     }
 
@@ -429,11 +429,11 @@ body {
         border-width: 0 3px 0 0 ;
     }
     99%{
-        width:270px;
+        width:280px;
         border-width: 0 3px 0 0 ;
     }
     100%{
-        width:270px;
+        width:280px;
         border-width: 0 0px 0 0 ;
     }
 
